@@ -15,4 +15,4 @@ total = 0
     total += 1 
   end
 end
-total
+p total
