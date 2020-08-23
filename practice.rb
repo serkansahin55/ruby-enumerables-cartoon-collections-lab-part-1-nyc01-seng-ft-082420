@@ -6,7 +6,7 @@ end
 
 
 [1, 2, 3, 4].count do |num|
-  num.even 
+  num.even? 
 end
 
 total = 0
